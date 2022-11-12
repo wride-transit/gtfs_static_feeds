@@ -1,0 +1,2 @@
+agency_id,route_id,route_short_name,route_long_name,route_desc,route_type,route_url,route_color,route_text_color
+LTFRB,EC,EDSA Carousel,EDSA Carousel,EDSA Carousel - Monumento to PITX,3,,C4555B,000000

@@ -1,0 +1,2 @@
+shape_id,shape_pt_sequence,shape_dist_traveled,shape_pt_lat,shape_pt_lon
+880814,0,,14.6035,120.983
