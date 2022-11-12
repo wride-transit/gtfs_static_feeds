@@ -1,3 +1,3 @@
 route_id,trip_id,service_id,trip_short_name,trip_headsign,direction_id,block_id,shape_id,wheelchair_accessible,bikes_allowed
-EC,EC_NB,DAILY_4H,Edsa Carousel - North Bound,Monumento,0,"","","",""
-EC,EC_SB,DAILY_4H,Edsa Carousel - South Bound,MOA,1,"","","",""
+EC,EC_NB,DAILY_24H,Edsa Carousel - North Bound,Monumento,0,"","","",""
+EC,EC_SB,DAILY_24H,Edsa Carousel - South Bound,MOA,1,"","","",""
